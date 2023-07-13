@@ -1,6 +1,6 @@
 # My Rustlings exercises
 
-In this repository I keep my <a href="https://github.com/rust-lang/rustlings" about="_blank">rustlings</a> journey. If you're courious about how bad I am at Rust, just take a look around.
+In this repository I keep my <a href="https://github.com/rust-lang/rustlings">rustlings</a> journey. If you're courious about how bad I am at Rust, just take a look around.
 
 # Exercise to Book Chapter mapping
 
